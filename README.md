@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am a Research Engineer with an M.S. in Computational Biology and 8 years of experience applying machine learning, statistical
+modeling, and software engineering to biological datasets. Experienced building ML systems, load-tested APIs, ETL
+pipelines, and LLM-powered workflows.
 
 <!--
 **dfrll/dfrll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
