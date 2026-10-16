@@ -11,7 +11,7 @@ pipelines, and LLM-powered workflows.
 - **Data Analysis & Machine Learning:** Pandas, Polars, NumPy, tidyverse, scikit-learn
 - **Testing:** pytest
 
-Professional Experienc## Professional Experience
+## Professional Experience
 
 ### Ocean Genomics
 **Computational Biologist** · August 2022–November 2024
